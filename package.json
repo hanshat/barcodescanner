@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georapbox/barcode-scanner.git"
+    "url": "git+https://github.com/hanshat/barcodescanner.git"
   },
   "keywords": [
     "aztec",
@@ -35,14 +35,14 @@
     "scanner"
   ],
   "author": {
-    "name": "George Raptis",
-    "email": "georapbox@gmail.com"
+    "name": "Hans Temu",
+    "email": "cybercarti@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/georapbox/barcode-scanner/issues"
+    "url": "https://github.com/hanshat/barcodescanner/issues"
   },
-  "homepage": "https://github.com/georapbox/barcode-scanner#readme",
+  "homepage": "https://github.com/hanshat/barcodescanner#readme",
   "devDependencies": {
     "@parcel/packager-raw-url": "~2.11.0",
     "@parcel/transformer-webmanifest": "~2.11.0",
