@@ -80,4 +80,4 @@ This will build the application first and then deploy it to GitHub Pages in the 
 
 ## License
 
-[The MIT License (MIT)](https://georapbox.mit-license.org/@2022)
+[The MIT License (MIT)](https://hanshat.mit-license.org/@2024)
